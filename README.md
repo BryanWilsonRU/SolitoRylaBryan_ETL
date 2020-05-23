@@ -1,8 +1,8 @@
 # ETL Project
 
-- Bryan
-- Ryla
-- Solito
+- Bryan Wilson
+- Ryla Almario
+- Solito Reyes
 
 # Synopsis
 
@@ -10,6 +10,14 @@ IMDB has a list a revered list of the [Top 250 Movies](https://www.imdb.com/char
 
 Due to the prevalence of streaming services in our media consumption, we wanted to discover which streaming services provide these movies.  We analyzed the available movies for Netflix, Amazon Prime, Disney+, and Hulu for this project.
 
+# PROJECT SCHEMA
+
+Jupyter Notebook containing all code for all three project portions 
+data_etl.ipynb
+
+*Processes described in markdown cells or commented code, as well as within this README file. 
+
+All Sources Included within README file or GitHub repository under (Resources) Folder. 
 ## Extract
 
 We retrieved a list of the Top 250 Movies along with the movie's year of release and IMDB rating by web scraping the following [page](https://www.imdb.com/chart/top/?ref_=nv_mv_250).
