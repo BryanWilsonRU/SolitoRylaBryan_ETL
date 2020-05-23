@@ -78,8 +78,9 @@ The second table provides information regarding the availability of each title (
 STEPS:
 Create Database (Log-in, Right-click on Databases, Create Database
 
-#Create Tables for Database#
-#First Table#
+###Create Tables for Database
+
+###First Table
 
 CREATE TABLE movies(
 title_id INT PRIMARY KEY NOT NULL,
