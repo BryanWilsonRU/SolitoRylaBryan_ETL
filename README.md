@@ -16,19 +16,18 @@ Jupyter Notebook containing all code for all three project portions
 data_etl.ipynb
 
 *Processes described in markdown cells or commented code, as well as within this README file. 
+*Created an ERD, using QuickBaseDiagrams, as a reference for the end product desired, as well as a flowchart to keep us on track and give a solid workflow visualization. 
 
 All Sources Included within README file or GitHub repository under (Resources) Folder. 
+
 ## Extract
 
-We retrieved a list of the Top 250 Movies along with the movie's year of release and IMDB rating by web scraping the following [page](https://www.imdb.com/chart/top/?ref_=nv_mv_250).
+
+We retrieved a list of the Top 250 Movies along with the movie's year of release and IMDB rating by web scraping the following [page](https://www.imdb.com/chart/top/?ref_=nv_mv_250). 
 
 We also scraped the movie pages from (reelgood.com)[https://reelgood.com/movies] to find the movies available on Amazon Prime, Netflix, Disney+, and Hulu. Since you can filter these pages by IMDB rating, we restricted the movies we retrieved to an IMDB rating of 8 or higher in order to easily match movies that are on the IMDB Top 250 list.
 
-WE also were able to retrieve additional information on the movies available on Netflix and Disney+ from Kaggle sources.
-
-The only data that was incomplete was the url for each result; we couldn’t find a source URL for every matching movie.
-
-Created ERD, using QuickBaseDiagrams, as a reference for the end product desired, as well as a flowchart to keep us on track and give a solid workflow visualization. 
+We also were able to retrieve additional information on the movies available on Netflix and Disney+ from Kaggle sources. The only data that was incomplete was the url for each result; we couldn’t find a source URL for every matching movie.
 
 ## Sources 
 
@@ -63,8 +62,6 @@ At the end, we combined all Jupyter Notebooks that had been created individually
 ## Load 
 The first step we took is to create a database within PostgreSQL which we could import the two Pandas dataframe (as .csv files), in order to create a queryable database. 
 
-Code for Creating ETL Project PostgreSQL DB
-
 PURPOSE: 
 
 To consolidate data into single SQL database available for reviewal of final transformed data, queryable for record access by any of the included criteria.
@@ -75,12 +72,14 @@ The first table (movies) provides information, including a unique title_id, rega
 The second table provides information regarding the availability of each title (matched by title_id) on all streaming services studied, and the url(s) with which one can access each movie available.
 	*Some ID’s may appear more than once, with different URL’s, if title is 	available on multiple services. 
 
+
+*Code for Creating ETL Project PostgreSQL DB
 STEPS:
 Create Database (Log-in, Right-click on Databases, Create Database
 
-###Create Tables for Database
+*Create Tables for Database
 
-###First Table
+*First Table
 
 CREATE TABLE movies(
 title_id INT PRIMARY KEY NOT NULL,
@@ -89,7 +88,7 @@ title VARCHAR (50) NOT NULL,
 year INT NOT NULL
 );
 
-###Second Table
+*Second Table
 
 CREATE TABLE streaming(
 title_id INT PRIMARY KEY NOT NULL,
