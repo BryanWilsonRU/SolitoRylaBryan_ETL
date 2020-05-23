@@ -1,251 +1,167 @@
-,rank,id,title,year,rating
-0,1,tt0111161,The Shawshank Redemption,1994,9.2
-1,2,tt0068646,The Godfather,1972,9.1
-2,3,tt0071562,The Godfather: Part II,1974,9.0
-3,4,tt0468569,The Dark Knight,2008,9.0
-4,5,tt0050083,12 Angry Men,1957,8.9
-5,6,tt0108052,Schindler's List,1993,8.9
-6,7,tt0167260,The Lord of the Rings: The Return of the King,2003,8.9
-7,8,tt0110912,Pulp Fiction,1994,8.8
-8,9,tt0060196,"The Good, the Bad and the Ugly",1966,8.8
-9,10,tt0120737,The Lord of the Rings: The Fellowship of the Ring,2001,8.8
-10,11,tt0137523,Fight Club,1999,8.8
-11,12,tt0109830,Forrest Gump,1994,8.8
-12,13,tt1375666,Inception,2010,8.7
-13,14,tt0080684,Star Wars: Episode V - The Empire Strikes Back,1980,8.7
-14,15,tt0167261,The Lord of the Rings: The Two Towers,2002,8.7
-15,16,tt0133093,The Matrix,1999,8.6
-16,17,tt0099685,Goodfellas,1990,8.6
-17,18,tt0073486,One Flew Over the Cuckoo's Nest,1975,8.6
-18,19,tt0047478,Seven Samurai,1954,8.6
-19,20,tt0114369,Se7en,1995,8.6
-20,21,tt0118799,Life Is Beautiful,1997,8.6
-21,22,tt0317248,City of God,2002,8.6
-22,23,tt0102926,The Silence of the Lambs,1991,8.6
-23,24,tt0038650,It's a Wonderful Life,1946,8.6
-24,25,tt0076759,Star Wars: Episode IV - A New Hope,1977,8.6
-25,26,tt0120815,Saving Private Ryan,1998,8.5
-26,27,tt6751668,Parasite,2019,8.5
-27,28,tt0245429,Spirited Away,2001,8.5
-28,29,tt0120689,The Green Mile,1999,8.5
-29,30,tt0816692,Interstellar,2014,8.5
-30,31,tt0110413,Léon: The Professional,1994,8.5
-31,32,tt0114814,The Usual Suspects,1995,8.5
-32,33,tt0056058,Harakiri,1962,8.5
-33,34,tt0110357,The Lion King,1994,8.5
-34,35,tt0120586,American History X,1998,8.5
-35,36,tt0253474,The Pianist,2002,8.5
-36,37,tt0088763,Back to the Future,1985,8.5
-37,38,tt0103064,Terminator 2: Judgment Day,1991,8.5
-38,39,tt0027977,Modern Times,1936,8.5
-39,40,tt0054215,Psycho,1960,8.5
-40,41,tt0172495,Gladiator,2000,8.5
-41,42,tt0021749,City Lights,1931,8.5
-42,43,tt0407887,The Departed,2006,8.5
-43,44,tt1675434,The Intouchables,2011,8.5
-44,45,tt2582802,Whiplash,2014,8.5
-45,46,tt0482571,The Prestige,2006,8.5
-46,47,tt0064116,Once Upon a Time in the West,1968,8.5
-47,48,tt0095327,Grave of the Fireflies,1988,8.4
-48,49,tt0034583,Casablanca,1942,8.4
-49,50,tt0095765,Cinema Paradiso,1988,8.4
-50,51,tt0047396,Rear Window,1954,8.4
-51,52,tt7286456,Joker,2019,8.4
-52,53,tt0078748,Alien,1979,8.4
-53,54,tt0078788,Apocalypse Now,1979,8.4
-54,55,tt0209144,Memento,2000,8.4
-55,56,tt0082971,Raiders of the Lost Ark,1981,8.4
-56,57,tt0032553,The Great Dictator,1940,8.4
-57,58,tt0405094,The Lives of Others,2006,8.4
-58,59,tt1853728,Django Unchained,2012,8.4
-59,60,tt0050825,Paths of Glory,1957,8.4
-60,61,tt0081505,The Shining,1980,8.4
-61,62,tt4154756,Avengers: Infinity War,2018,8.4
-62,63,tt0910970,WALL·E,2008,8.4
-63,64,tt0043014,Sunset Blvd.,1950,8.4
-64,65,tt4633694,Spider-Man: Into the Spider-Verse,2018,8.4
-65,66,tt0119698,Princess Mononoke,1997,8.4
-66,67,tt0057012,Dr. Strangelove,1964,8.4
-67,68,tt0364569,Oldboy,2003,8.4
-68,69,tt0051201,Witness for the Prosecution,1957,8.4
-69,70,tt4154796,Avengers: Endgame,2019,8.3
-70,71,tt1345836,The Dark Knight Rises,2012,8.3
-71,72,tt0087843,Once Upon a Time in America,1984,8.3
-72,73,tt0090605,Aliens,1986,8.3
-73,74,tt5311514,Your Name.,2016,8.3
-74,75,tt0066763,Anand,1971,8.3
-75,76,tt2380307,Coco,2017,8.3
-76,77,tt0169547,American Beauty,1999,8.3
-77,78,tt0112573,Braveheart,1995,8.3
-78,79,tt0082096,Das Boot,1981,8.3
-79,80,tt1187043,3 Idiots,2009,8.3
-80,81,tt0114709,Toy Story,1995,8.3
-81,82,tt0057565,High and Low,1963,8.3
-82,83,tt0986264,Like Stars on Earth,2007,8.3
-83,84,tt0086879,Amadeus,1984,8.3
-84,85,tt0086190,Star Wars: Episode VI - Return of the Jedi,1983,8.3
-85,86,tt8579674,1917,2019,8.3
-86,87,tt0105236,Reservoir Dogs,1992,8.3
-87,88,tt0361748,Inglourious Basterds,2009,8.3
-88,89,tt0119217,Good Will Hunting,1997,8.3
-89,90,tt0062622,2001: A Space Odyssey,1968,8.3
-90,91,tt0052357,Vertigo,1958,8.3
-91,92,tt0180093,Requiem for a Dream,2000,8.3
-92,93,tt0022100,M,1931,8.3
-93,94,tt5074352,Dangal,2016,8.3
-94,95,tt8267604,Capernaum,2018,8.3
-95,96,tt0338013,Eternal Sunshine of the Spotless Mind,2004,8.3
-96,97,tt0033467,Citizen Kane,1941,8.3
-97,98,tt2106476,The Hunt,2012,8.3
-98,99,tt0093058,Full Metal Jacket,1987,8.3
-99,100,tt0053125,North by Northwest,1959,8.2
-100,101,tt0040522,Bicycle Thieves,1948,8.2
-101,102,tt0066921,A Clockwork Orange,1971,8.2
-102,103,tt0012349,The Kid,1921,8.2
-103,104,tt0208092,Snatch,2000,8.2
-104,105,tt0045152,Singin' in the Rain,1952,8.2
-105,106,tt0086250,Scarface,1983,8.2
-106,107,tt0075314,Taxi Driver,1976,8.2
-107,108,tt0211915,Amélie,2001,8.2
-108,109,tt0056172,Lawrence of Arabia,1962,8.2
-109,110,tt0070735,The Sting,1973,8.2
-110,111,tt0435761,Toy Story 3,2010,8.2
-111,112,tt0044741,Ikiru,1952,8.2
-112,113,tt0017136,Metropolis,1927,8.2
-113,114,tt0059578,For a Few Dollars More,1965,8.2
-114,115,tt1832382,A Separation,2011,8.2
-115,116,tt0036775,Double Indemnity,1944,8.2
-116,117,tt0053604,The Apartment,1960,8.2
-117,118,tt1255953,Incendies,2010,8.2
-118,119,tt0056592,To Kill a Mockingbird,1962,8.2
-119,120,tt0097576,Indiana Jones and the Last Crusade,1989,8.2
-120,121,tt1049413,Up,2009,8.2
-121,122,tt0119488,L.A. Confidential,1997,8.2
-122,123,tt0113277,Heat,1995,8.2
-123,124,tt0071853,Monty Python and the Holy Grail,1975,8.2
-124,125,tt0095016,Die Hard,1988,8.2
-125,126,tt0042876,Rashomon,1950,8.2
-126,127,tt0055630,Yojimbo,1961,8.2
-127,128,tt0091251,Come and See,1985,8.2
-128,129,tt0372784,Batman Begins,2005,8.2
-129,130,tt0118849,Children of Heaven,1997,8.2
-130,131,tt6966692,Green Book,2018,8.2
-131,132,tt0363163,Downfall,2004,8.2
-132,133,tt0105695,Unforgiven,1992,8.2
-133,134,tt0053291,Some Like It Hot,1959,8.2
-134,135,tt0089881,Ran,1985,8.2
-135,136,tt0347149,Howl's Moving Castle,2004,8.2
-136,137,tt0057115,The Great Escape,1963,8.2
-137,138,tt0042192,All About Eve,1950,8.2
-138,139,tt0268978,A Beautiful Mind,2001,8.2
-139,140,tt0112641,Casino,1995,8.2
-140,141,tt0457430,Pan's Labyrinth,2006,8.2
-141,142,tt1305806,The Secret in Their Eyes,2009,8.2
-142,143,tt0096283,My Neighbor Totoro,1988,8.2
-143,144,tt0993846,The Wolf of Wall Street,2013,8.2
-144,145,tt0120735,"Lock, Stock and Two Smoking Barrels",1998,8.2
-145,146,tt0081398,Raging Bull,1980,8.2
-146,147,tt0055031,Judgment at Nuremberg,1961,8.1
-147,148,tt0040897,The Treasure of the Sierra Madre,1948,8.1
-148,149,tt0469494,There Will Be Blood,2007,8.1
-149,150,tt0476735,My Father and My Son,2005,8.1
-150,151,tt5027774,"Three Billboards Outside Ebbing, Missouri",2017,8.1
-151,152,tt0015864,The Gold Rush,1925,8.1
-152,153,tt0046912,Dial M for Murder,1954,8.1
-153,154,tt0071315,Chinatown,1974,8.1
-154,155,tt0050976,The Seventh Seal,1957,8.1
-155,156,tt0434409,V for Vendetta,2005,8.1
-156,157,tt0477348,No Country for Old Men,2007,8.1
-157,158,tt2096673,Inside Out,2015,8.1
-158,159,tt1291584,Warrior,2011,8.1
-159,160,tt1130884,Shutter Island,2010,8.1
-160,161,tt0080678,The Elephant Man,1980,8.1
-161,162,tt0117951,Trainspotting,1996,8.1
-162,163,tt0167404,The Sixth Sense,1999,8.1
-163,164,tt0084787,The Thing,1982,8.1
-164,165,tt0031381,Gone with the Wind,1939,8.1
-165,166,tt0107290,Jurassic Park,1993,8.1
-166,167,tt3170832,Room,2015,8.1
-167,168,tt0050986,Wild Strawberries,1957,8.1
-168,169,tt0083658,Blade Runner,1982,8.1
-169,170,tt0266543,Finding Nemo,2003,8.1
-170,171,tt0050212,The Bridge on the River Kwai,1957,8.1
-171,172,tt0079944,Stalker,1979,8.1
-172,173,tt0047296,On the Waterfront,1954,8.1
-173,174,tt0041959,The Third Man,1949,8.1
-174,175,tt0120382,The Truman Show,1998,8.1
-175,176,tt0266697,Kill Bill: Vol. 1,2003,8.1
-176,177,tt0116282,Fargo,1996,8.1
-177,178,tt1205489,Gran Torino,2008,8.1
-178,179,tt0046438,Tokyo Story,1953,8.1
-179,180,tt0353969,Memories of Murder,2003,8.1
-180,181,tt0077416,The Deer Hunter,1978,8.1
-181,182,tt3011894,Wild Tales,2014,8.1
-182,183,tt4729430,Klaus,2019,8.1
-183,184,tt0116231,The Bandit,1996,8.1
-184,185,tt8108198,Andhadhun,2018,8.1
-185,186,tt0978762,Mary and Max,2009,8.1
-186,187,tt0118715,The Big Lebowski,1998,8.1
-187,188,tt0107207,In the Name of the Father,1993,8.1
-188,189,tt2267998,Gone Girl,2014,8.1
-189,190,tt2119532,Hacksaw Ridge,2016,8.1
-190,191,tt2278388,The Grand Budapest Hotel,2014,8.1
-191,192,tt0035446,To Be or Not to Be,1942,8.1
-192,193,tt0060827,Persona,1966,8.1
-193,194,tt1950186,Ford v Ferrari,2019,8.1
-194,195,tt0112471,Before Sunrise,1995,8.1
-195,196,tt0264464,Catch Me If You Can,2002,8.1
-196,197,tt0017925,The General,1926,8.1
-197,198,tt0892769,How to Train Your Dragon,2010,8.1
-198,199,tt0031679,Mr. Smith Goes to Washington,1939,8.1
-199,200,tt0015324,Sherlock Jr.,1924,8.1
-200,201,tt1392214,Prisoners,2013,8.1
-201,202,tt2024544,12 Years a Slave,2013,8.1
-202,203,tt1392190,Mad Max: Fury Road,2015,8.1
-203,204,tt0061512,Cool Hand Luke,1967,8.1
-204,205,tt0072684,Barry Lyndon,1975,8.1
-205,206,tt0046268,The Wages of Fear,1953,8.1
-206,207,tt0074958,Network,1976,8.1
-207,208,tt0092005,Stand by Me,1986,8.1
-208,209,tt0758758,Into the Wild,2007,8.1
-209,210,tt0405159,Million Dollar Baby,2004,8.1
-210,211,tt0079470,Monty Python's Life of Brian,1979,8.1
-211,212,tt1028532,Hachi: A Dog's Tale,2009,8.1
-212,213,tt0052618,Ben-Hur,1959,8.1
-213,214,tt0091763,Platoon,1986,8.1
-214,215,tt1979320,Rush,2013,8.1
-215,216,tt3315342,Logan,2017,8.0
-216,217,tt0097165,Dead Poets Society,1989,8.0
-217,218,tt0019254,The Passion of Joan of Arc,1928,8.0
-218,219,tt1201607,Harry Potter and the Deathly Hallows: Part 2,2011,8.0
-219,220,tt0060107,Andrei Rublev,1966,8.0
-220,221,tt0053198,The 400 Blows,1959,8.0
-221,222,tt0395169,Hotel Rwanda,2004,8.0
-222,223,tt0245712,Amores Perros,2000,8.0
-223,224,tt4016934,The Handmaiden,2016,8.0
-224,225,tt1895587,Spotlight,2015,8.0
-225,226,tt0405508,Rang De Basanti,2006,8.0
-226,227,tt0087544,Nausicaä of the Valley of the Wind,1984,8.0
-227,228,tt0075148,Rocky,1976,8.0
-228,229,tt0032976,Rebecca,1940,8.0
-229,230,tt8613070,Portrait of a Lady on Fire,2019,8.0
-230,231,tt0198781,"Monsters, Inc.",2001,8.0
-231,232,tt0113247,La Haine,1995,8.0
-232,233,tt0025316,It Happened One Night,1934,8.0
-233,234,tt1954470,Gangs of Wasseypur,2012,8.0
-234,235,tt0118694,In the Mood for Love,2000,8.0
-235,236,tt0381681,Before Sunset,2004,8.0
-236,237,tt0087884,"Paris, Texas",1984,8.0
-237,238,tt1454029,The Help,2011,8.0
-238,239,tt0093779,The Princess Bride,1987,8.0
-239,240,tt4857264,The Invisible Guest,2016,8.0
-240,241,tt4430212,Drishyam,2015,8.0
-241,242,tt0088247,The Terminator,1984,8.0
-242,243,tt2758880,Winter Sleep,2014,8.0
-243,244,tt0043338,Ace in the Hole,1951,8.0
-244,245,tt0064115,Butch Cassidy and the Sundance Kid,1969,8.0
-245,246,tt0169102,Lagaan: Once Upon a Time in India,2001,8.0
-246,247,tt0083922,Fanny and Alexander,1982,8.0
-247,248,tt0103639,Aladdin,1992,8.0
-248,249,tt0111495,Three Colors: Red,1994,8.0
-249,250,tt0871510,Chak de! India,2007,8.0
+,rank,title,year,rating
+0,1,The Shawshank Redemption,1994,9.2
+1,2,The Godfather,1972,9.1
+2,3,The Godfather: Part II,1974,9.0
+3,4,The Dark Knight,2008,9.0
+4,5,12 Angry Men,1957,8.9
+5,6,Schindler's List,1993,8.9
+6,7,The Lord of the Rings: The Return of the King,2003,8.9
+7,8,Pulp Fiction,1994,8.8
+8,9,"The Good, the Bad and the Ugly",1966,8.8
+9,10,The Lord of the Rings: The Fellowship of the Ring,2001,8.8
+10,11,Fight Club,1999,8.8
+11,12,Forrest Gump,1994,8.8
+12,13,Inception,2010,8.7
+13,14,Star Wars: Episode V - The Empire Strikes Back,1980,8.7
+14,15,The Lord of the Rings: The Two Towers,2002,8.7
+15,16,The Matrix,1999,8.6
+16,17,Goodfellas,1990,8.6
+17,18,One Flew Over the Cuckoo's Nest,1975,8.6
+18,19,Seven Samurai,1954,8.6
+19,20,Se7en,1995,8.6
+20,21,Life Is Beautiful,1997,8.6
+21,22,City of God,2002,8.6
+22,23,The Silence of the Lambs,1991,8.6
+23,24,It's a Wonderful Life,1946,8.6
+24,25,Star Wars: Episode IV - A New Hope,1977,8.6
+25,26,Saving Private Ryan,1998,8.5
+26,27,Parasite,2019,8.5
+27,28,Spirited Away,2001,8.5
+28,29,The Green Mile,1999,8.5
+29,30,Interstellar,2014,8.5
+30,31,Léon: The Professional,1994,8.5
+31,32,The Usual Suspects,1995,8.5
+32,33,Harakiri,1962,8.5
+33,34,The Lion King,1994,8.5
+34,35,American History X,1998,8.5
+35,36,The Pianist,2002,8.5
+36,37,Back to the Future,1985,8.5
+37,38,Terminator 2: Judgment Day,1991,8.5
+38,39,Modern Times,1936,8.5
+39,40,Psycho,1960,8.5
+40,41,Gladiator,2000,8.5
+41,42,City Lights,1931,8.5
+42,43,The Departed,2006,8.5
+43,44,The Intouchables,2011,8.5
+44,45,Whiplash,2014,8.5
+45,46,The Prestige,2006,8.5
+46,47,Once Upon a Time in the West,1968,8.5
+47,48,Grave of the Fireflies,1988,8.4
+48,49,Casablanca,1942,8.4
+49,50,Rear Window,1954,8.4
+50,51,Cinema Paradiso,1988,8.4
+51,52,Joker,2019,8.4
+52,53,Alien,1979,8.4
+53,54,Apocalypse Now,1979,8.4
+54,55,Memento,2000,8.4
+55,56,Indiana Jones and the Raiders of the Lost Ark,1981,8.4
+56,57,The Great Dictator,1940,8.4
+57,58,The Lives of Others,2006,8.4
+58,59,Django Unchained,2012,8.4
+59,60,Paths of Glory,1957,8.4
+60,61,The Shining,1980,8.4
+61,62,Avengers: Infinity War,2018,8.4
+62,63,WALL·E,2008,8.4
+63,64,Sunset Blvd.,1950,8.4
+64,65,Spider-Man: Into the Spider-Verse,2018,8.4
+65,66,Princess Mononoke,1997,8.4
+66,67,Dr. Strangelove,1964,8.4
+67,68,Oldboy,2003,8.4
+68,69,Witness for the Prosecution,1957,8.4
+69,70,Avengers: Endgame,2019,8.3
+70,71,The Dark Knight Rises,2012,8.3
+71,72,Once Upon a Time in America,1984,8.3
+72,73,Aliens,1986,8.3
+73,74,Your Name.,2016,8.3
+74,75,Coco,2017,8.3
+75,76,Anand,1971,8.3
+76,77,American Beauty,1999,8.3
+77,78,Braveheart,1995,8.3
+78,79,Das Boot,1981,8.3
+79,80,3 Idiots,2009,8.3
+80,81,Toy Story,1995,8.3
+81,82,High and Low,1963,8.3
+82,83,Like Stars on Earth,2007,8.3
+83,84,Amadeus,1984,8.3
+84,85,Star Wars: Episode VI - Return of the Jedi,1983,8.3
+85,86,1917,2019,8.3
+86,87,Reservoir Dogs,1992,8.3
+87,88,Inglourious Basterds,2009,8.3
+88,89,Good Will Hunting,1997,8.3
+89,90,2001: A Space Odyssey,1968,8.3
+90,91,Vertigo,1958,8.3
+91,92,Requiem for a Dream,2000,8.3
+92,93,M,1931,8.3
+93,94,Dangal,2016,8.3
+94,95,Capernaum,2018,8.3
+95,96,Eternal Sunshine of the Spotless Mind,2004,8.3
+96,97,Citizen Kane,1941,8.3
+97,98,The Hunt,2012,8.3
+98,99,Full Metal Jacket,1987,8.3
+99,100,Bicycle Thieves,1948,8.2
+100,101,North by Northwest,1959,8.2
+101,102,The Kid,1921,8.2
+102,103,A Clockwork Orange,1971,8.2
+103,104,Snatch,2000,8.2
+104,105,Singin' in the Rain,1952,8.2
+105,106,Scarface,1983,8.2
+106,107,Taxi Driver,1976,8.2
+107,108,Amélie,2001,8.2
+108,109,Lawrence of Arabia,1962,8.2
+109,110,The Sting,1973,8.2
+110,111,Toy Story 3,2010,8.2
+111,112,Ikiru,1952,8.2
+112,113,Metropolis,1927,8.2
+113,114,For a Few Dollars More,1965,8.2
+114,115,A Separation,2011,8.2
+115,116,Double Indemnity,1944,8.2
+116,117,The Apartment,1960,8.2
+117,118,Incendies,2010,8.2
+118,119,To Kill a Mockingbird,1962,8.2
+119,120,Indiana Jones and the Last Crusade,1989,8.2
+120,121,Up,2009,8.2
+121,122,L.A. Confidential,1997,8.2
+122,123,Heat,1995,8.2
+123,124,Monty Python and the Holy Grail,1975,8.2
+124,125,Die Hard,1988,8.2
+125,126,Rashomon,1950,8.2
+126,127,Yojimbo,1961,8.2
+127,128,Come and See,1985,8.2
+128,129,Batman Begins,2005,8.2
+129,130,Children of Heaven,1997,8.2
+130,131,Green Book,2018,8.2
+131,132,Downfall,2004,8.2
+132,133,Unforgiven,1992,8.2
+133,134,Some Like It Hot,1959,8.2
+134,135,Ran,1985,8.2
+135,136,Howl's Moving Castle,2004,8.2
+136,137,The Great Escape,1963,8.2
+137,138,All About Eve,1950,8.2
+138,139,A Beautiful Mind,2001,8.2
+139,140,Casino,1995,8.2
+140,141,Pan's Labyrinth,2006,8.2
+141,142,The Secret in Their Eyes,2009,8.2
+142,143,My Neighbor Totoro,1988,8.2
+143,144,The Wolf of Wall Street,2013,8.2
+144,145,"Lock, Stock and Two Smoking Barrels",1998,8.2
+145,146,Raging Bull,1980,8.2
+146,147,The Treasure of the Sierra Madre,1948,8.1
+147,148,Judgment at Nuremberg,1961,8.1
+148,149,There Will Be Blood,2007,8.1
+149,150,My Father and My Son,2005,8.1
+150,151,"Three Billboards Outside Ebbing, Missouri",2017,8.1
+151,152,The Gold Rush,1925,8.1
+152,153,Dial M for Murder,1954,8.1
+153,154,Chinatown,1974,8.1
+154,155,V for Vendetta,2005,8.1
+155,156,The Seventh Seal,1957,8.1
+156,157,No Country for Old Men,2007,8.1
+157,158,Inside Out,2015,8.1
+158,159,Shutter Island,2010,8.1
+159,160,Warrior,2011,8.1
+160,161,The Elephant Man,1980,8.1
+161,162,Trainspotting,1996,8.1
+162,163,The Sixth Sense,1999,8.1
+163,164,The Thing,1982,8.1
+164,165,Gone with the Wind,1939,8.1
+165,166,Jurassic Park,1993,8.1
