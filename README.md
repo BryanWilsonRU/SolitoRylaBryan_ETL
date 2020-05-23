@@ -89,7 +89,7 @@ title VARCHAR (50) NOT NULL,
 year INT NOT NULL
 );
 
-#Second Table#
+###Second Table
 
 CREATE TABLE streaming(
 title_id INT PRIMARY KEY NOT NULL,
